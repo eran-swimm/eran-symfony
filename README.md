@@ -14,7 +14,7 @@ Installation
   Support" (LTS) versions and has a [release process][6] that is predictable and
   business-friendly.
 
-Sponsor
+Sponsor 11
 -------
 
 Symfony 6.1 is [backed][27] by [basecom][28].
