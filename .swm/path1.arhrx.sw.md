@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.10.1-2
 ---
 
-`📄 .gitignore` `📄 .php-cs-fixer.dist.php`
+`📄 .gitignore` `📄 .php-cs-fixer.dist.php` `📄 composer.json`
 
 <br/>
 
